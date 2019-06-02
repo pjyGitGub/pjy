@@ -1,0 +1,65 @@
+{
+    "data" : [
+        {
+            "id" : "01",
+            "big" : "4",
+            "small" : ".0",
+            "img" : "../img/show1/show1.jpg",
+            "pinpai" : "西班牙品牌",
+            "guoqi" : "../img/gq/gq1.jpg",
+            "title" : "爱上客服的桑田我认识的他法萨芬",
+            "title_des" : "IT我后悔就打发我就是滴减肥方法 爱谁就的撒范德萨发沙发",
+            "big1" : "79",
+            "small1" : "198",
+            "sold" : "1533"
+        },{
+            "id" : "02",
+            "big" : "6",
+            "small" : ".2",
+            "img" : "../img/show1/show2.jpg",
+            "pinpai" : "美国品牌",
+            "guoqi" : "../img/gq/gq2.jpg",
+            "title" : "按实际发驾驶飞机上反复大家撒大",
+            "title_des" : "放进墬桥附近饿哦日妃阿胶肯定句U型你气人查明细看过日",
+            "big1" : "62",
+            "small1" : "94",
+            "sold" : "1342"
+        },{
+            "id" : "03",
+            "big" : "3",
+            "small" : ".0",
+            "img" : "../img/show1/show3.jpg",
+            "pinpai" : "西班牙品牌",
+            "guoqi" : "../img/gq/gq3.jpg",
+            "title" : "玩玩儿推欧阳天热啥地方刚回家禾",
+            "title_des" : "阿斯顿飞规划局快乐门钹一预提费大概沙发个梵蒂冈",
+            "big1" : "155",
+            "small1" : "198",
+            "sold" : "1113"
+        },{
+            "id" : "04",
+            "big" : "4",
+            "small" : ".2",
+            "img" : "../img/show1/show4.jpg",
+            "pinpai" : "美国品牌",
+            "guoqi" : "../img/gq/gq4.jpg",
+            "title" : "人的方法反反复复凤飞飞",
+            "title_des" : "爱的污染物仍发生的范德萨范德萨发个人",
+            "big1" : "29",
+            "small1" : "463",
+            "sold" : "1643"
+        },{
+            "id" : "05",
+            "big" : "5",
+            "small" : ".7",
+            "img" : "../img/show1/show5.jpg",
+            "pinpai" : "日本品牌",
+            "guoqi" : "../img/gq/gq5.jpg",
+            "title" : "惹他发的规范地方给他任何股份的",
+            "title_des" : "请问轻轻去去去天天天天天天我去收水电费发的顺丰",
+            "big1" : "77",
+            "small1" : "148",
+            "sold" : "453"
+        }
+    ]
+}

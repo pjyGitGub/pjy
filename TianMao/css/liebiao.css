@@ -1,0 +1,165 @@
+@charset "utf-8";
+*{margin:0; padding:0}
+
+header{
+    width:100%;
+    height:27px;
+    background:#f2f2f2;
+}
+header em{
+    color:red;
+}
+.headerBox{
+    width:990px;
+    height:26px;
+    margin:0 auto;
+    font-size:14px;
+    line-height:26px;
+}
+.headerBox a{
+    color:#999;
+}
+.headerBox .index{
+    float:left;
+}
+.headerBox .index li{
+    float:left;
+}
+.headerBox .mytaobao{
+    float:right;
+}
+.headerBox .mytaobao li{
+    float:left;
+}
+.headerBox li{
+    margin:0 15px;
+}
+.headerBox a:hover{
+    color:red;
+    border-bottom:1px solid red;
+}
+
+.sousuo{
+    width:100%;
+    height:120px;
+    background:#fff;
+}
+.sousuo .logoBox{
+    width:990px;
+    height:60px;
+    position:absolute;
+    margin:30px 140px;
+    line-height:60px;
+}
+.sousuo .logoBox img{
+    display:block;
+    width:260px;
+    height:60px;
+    float:left;
+    margin:0 5px;
+}
+.sousuo .logoBox p{
+    float:right;
+}
+.sousuo .logoBox p input{
+    width:347px;
+    height:30px;
+    border:3px solid #7a45e5;
+    line-height:30px;
+    float:left;
+}
+.sousuo .logoBox .btn{
+    width:80px;
+    height:36px;
+    background:#7a45e5;
+    color:#fff;
+    font-size:16px;
+    border:none;
+    cursor:pointer;
+    float:left;
+}
+
+.imgBg{
+    width:1190px;
+    height:280px;
+    margin:0 auto;
+}
+
+.content{
+    width:1190px;
+    min-height:100px;
+    margin:0 auto;
+    overflow:hidden;
+}
+.box2_1{
+    width:230px;
+    height:280px;
+    border:1px solid #ccc;
+    float:left;
+    margin:3px;
+}
+.box2_11{
+    padding:0 24px;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    font-size:12px;
+    line-height:14px;
+    color:#4c4c4c;
+}
+.box2_1 .price2{
+    width:100%;
+    display:inline-block;
+    font-family:Arial;
+    line-height:20px;
+    color:#dd2727;
+    vertical-align:bottom;
+    margin-top:8px;
+    padding-left:20px;
+}
+.box2_1 .price2 .act2{
+    font-size:14px;
+    line-height:20px;
+    color:#dd2727;
+}
+.box2_1 .price2 .act2 .big2{
+    font-size:20px;
+}
+.box2_1 .price2 .gray2{
+    font-size:12px;
+    color:#999;
+    text-decoration:line-through;
+}
+.box2_1 img{
+    display:block;
+    width:200px;
+    height:200px;
+    margin:16px auto 8px;
+}
+.box2_1 img:hover{
+    transform:translateX(-3px);
+    transition:.5s;
+    cursor:pointer;
+}
+.box2_1 .btn{
+    width:90px;
+    height:26px;
+    color:#fff;
+    text-align:center;
+    line-height:26px;
+    background:#ff5c4d;
+    display:block;
+    text-decoration:none;
+    float:right;
+    margin-right:23px;
+}
+
+footer{
+    width:100%;
+    height:386px;
+    background:linear-gradient(to right, #7a45e5 20%, #b23cef 80%)
+}
+footer img{
+    display:block;
+    margin:0 auto;
+}

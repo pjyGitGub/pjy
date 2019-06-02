@@ -1,0 +1,362 @@
+@charset "utf-8";
+
+nav{
+    width:100%;
+    background:#f5f5f5;
+    border-bottom:1px solid #eee;
+}
+nav .list{
+    width:990px;
+    height:36px;
+    margin:0 auto;
+}
+.list .list1{
+    width:288px;
+    height:36px;
+    float:left;
+}
+.list1 a{
+    float:left;
+    margin:0 18px;
+    text-align:center;
+    line-height:36px;
+    color:#000;
+    font-size:14px;
+}
+.list .list2{
+    width:690px;
+    height:36px;
+    float:left;
+}
+.list2 a{
+    float:left;
+    text-align:center;
+    line-height:36px;
+    color:#000;
+    font-size:14px;
+    margin:0 27px;
+}
+.list a em{
+    color:red;
+}
+.list a:hover{
+    color:red;
+    border-bottom:2px solid red;
+}
+
+header{
+    width:990px;
+    height:90px;
+    margin:0 auto;
+    position:relative;
+}
+header .logo{
+    position:absolute;
+    margin:20px 0;
+    float:left;
+}
+header .sousuo{
+    width:515px;
+    height:36px;
+    margin:20px 0;
+    float:right;
+}
+.sousuo select{
+    width:56px;
+    height:36px;
+    border:none;
+    float:left;
+    background:#f5f5f5;
+    border:3px solid #f50;
+    color:#6b6b6b;
+    border-right:none;
+}
+.sousuo select:hover{
+    cursor:pointer;
+}
+.sousuo input{
+    display:block;
+    width:332px;
+    height:30px;
+    padding-left:20px;
+    float:left;
+    border:3px solid #f50;
+    border-left:none;
+}
+.sousuo .btn{
+    float:left;
+    width:80px;
+    height:36px;
+    border:none;
+    background:#f50;
+    color:#fff;
+    font-size:18px;
+}
+.sousuo .btn:hover{
+    cursor:pointer;
+}
+
+section{
+    width:990px;
+    min-height:350px;
+    margin:0 auto;
+}
+section .title{
+    width:990px;
+    height:32px;
+    border-bottom:3px solid #e7e7e7;
+}
+.title p{
+    width:100px;
+    height:36px;
+    float:left;
+    font-weight:700;
+    font-size:16px;
+    height:16px;
+    font-family:'Hiragino Sans GB','Lantinghei SC','Microsoft Yahei',SimSun;
+    text-align:center;
+    padding:0 0 15px 0;
+    color:#f50;
+    margin-right:10px;
+}
+.title .active{
+    border-bottom:3px solid #f50;
+}
+.title p:hover{
+    cursor:pointer;
+}
+.content{
+    width:990px;
+    min-height:50px;
+}
+.content .list_title{
+    width:970px;
+    height:50px;
+    line-height:50px;
+    font-size:14px;
+    padding-left:20px;
+}
+.list_title li:nth-child(1){
+    float:left;
+    width:118px;
+}
+.list_title li:nth-child(2){
+    float:left;
+    width:400px;
+}
+.list_title li:nth-child(3){
+    float:left;
+    width:118px;
+}
+.list_title li:nth-child(4){
+    float:left;
+    width:118px;
+}
+.list_title li:nth-child(5){
+    float:left;
+    width:118px;
+}
+.list_title li:nth-child(6){
+    float:left;
+    width:98px;
+}
+section .box{
+    width:990px;
+    height:130px;
+    background:#fcfcfc;
+    border:1px solid #e6e6e6;
+    position:relative;
+    margin-bottom:18px;
+}
+.box .check{
+    width:45px;
+    height:120px;
+    position:relative;
+    float:left;
+}
+.check input{
+    position:absolute;
+    top:30px;
+    left:30px;
+}
+.box .con{
+    width:290px;
+    height:110px;
+    float:left;
+    padding:20px;
+    position:relative;
+}
+.con .img{
+    width:85px;
+    height:85px;
+    float:left;
+}
+.img img{
+    display:block;
+    width:100%;
+    height:100%;
+}
+.con .txt1{
+    width:190px;
+    max-height:36px;
+    font-size:12px;
+    overflow:hidden;
+    float:left;
+    margin-left:10px;
+}
+.txt1 a{
+    font-size:12px;
+    color:#3c3c3c;
+}
+.txt1 a:hover{
+    color:#f50;
+    border-bottom:1px solid #f50;
+}
+.con .txt2{
+    width:150px;
+    height:36px;
+    float:left;
+    color:#999;
+    font-size:12px;
+    padding:10px;
+}
+.con .largeImg{
+    width:240px;
+    height:240px;
+    position:absolute;
+    left:120px;
+    top:-20px;
+    display:none;
+}
+.largeImg img{
+    display:block;
+    width:100%;
+    height:100%;
+}
+.box .price{
+    width:80px;
+    height:40px;
+    float:left;
+    margin-top:45px;
+    margin-left:150px;
+}
+.price .old{
+    color:#9c9c9c;
+    text-decoration:line-through;
+    font-family:Verdana,Tahoma,arial;
+    font-size:12px;
+}
+.price .new{
+    color:#f50;
+    font-family:Verdana,Tahoma,arial;
+    font-size:14px;
+}
+.box .count{
+    width:510px;
+    height:35px;
+    line-height:35px;
+    position:absolute;
+    left:640px;
+    top:50px;
+}
+.count .jian, .add{
+    display:block;
+    line-height:20px;
+    width:20px;
+    height:30px;
+    float:left;
+    margin-top:2px;
+    border:none;
+}
+.count .jian, .add:hover{
+    cursor:pointer;
+}
+.count input{
+    display:block;
+    width:30px;
+    height:25px;
+    float:left;
+    margin:5px 0;
+    text-align:center;
+}
+.box .smallAdd{
+    width:60px;
+    height:20px;
+    line-height:20px;
+    text-align:center;
+    position:absolute;
+    left:760px;
+    top:55px;
+    float:left;
+}
+.box .del{
+    width:60px;
+    height:20px;
+    line-height:20px;
+    text-align:center;
+    position:absolute;
+    left:880px;
+    top:55px;
+}
+.del a{
+    font-size:14px;
+    color:#f50;
+}
+section .jiesuan{
+    width:990px;
+    height:50px;
+    background:#e5e5e5;
+    margin-top:20px;
+}
+.jiesuan .right{
+    min-width:430px;
+    height:50px;
+    float:right;
+}
+.right .checkBox{
+    float:left;
+    min-width:100px;
+    height:50px;
+    text-align:center;
+    line-height:50px;
+    position:relative;
+    float:left;
+}
+.checkBox p{
+    float:left;
+    font-size:14px;
+}
+.checkBox p:nth-child(2){
+    font-size:20px;
+    color:#f50;
+}
+.right .price{
+    min-width:190px;
+    height:50px;
+    line-height:50px;
+    float:left;
+    margin-left:20px;
+}
+.price p{
+    font-size:14px;
+    float:left;
+    color:#3c3c3c;
+}
+.price .num{
+    font-size:22px;
+    color:#f50;
+    float:left;
+}
+.right .btn{
+    display:block;
+    width:120px;
+    height:50px;
+    background:#f50;
+    border:none;
+    text-align:center;
+    line-height:50px;
+    font-size:22px;
+    color:#fff;
+    float:right;
+    cursor:pointer;
+}

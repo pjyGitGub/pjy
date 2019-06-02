@@ -1,0 +1,89 @@
+{
+    "data" : [
+        {
+            "img" : "../img/beauty1/mr.jpg",
+            "txt" : "啊啊啊啊啊啊啊",
+            "big2" : "88",
+            "small2" : "233"
+        },{
+            "img" : "../img/beauty1/mr1.jpg",
+            "txt" : "爱爱爱爱爱爱爱",
+            "big2" : "124",
+            "small2" : "343"
+        },{
+            "img" : "../img/beauty1/mr2.jpg",
+            "txt" : "谁谁谁水水水水",
+            "big2" : "128",
+            "small2" : "234"
+        },{
+            "img" : "../img/beauty1/mr3.jpg",
+            "txt" : "大大大滴滴答答",
+            "big2" : "356",
+            "small2" : "522"
+        },{
+            "img" : "../img/beauty1/mr4.jpg",
+            "txt" : "大大大的防晒霜",
+            "big2" : "89",
+            "small2" : "124"
+        },{
+            "img" : "../img/beauty1/mr5.jpg",
+            "txt" : "未去问问问问是",
+            "big2" : "274",
+            "small2" : "452"
+        }
+    ],
+    "data1" : [
+        {
+            "img" : "../img/brand1/brand1.jpg",
+            "txt" : "萨达尔冯安抚峰的"
+        },{
+            "img" : "../img/brand1/brand2.jpg",
+            "txt" : "放水电费方式放服"
+        },{
+            "img" : "../img/brand1/brand3.jpg",
+            "txt" : "千瓦时的人发给他"
+        },{
+            "img" : "../img/brand1/brand4.jpg",
+            "txt" : "大风过后哈哈哈"
+        },{
+            "img" : "../img/brand1/brand5.jpg",
+            "txt" : "去去去我二人人人人"
+        },{
+            "img" : "../img/brand1/brand6.jpg",
+            "txt" : "突然翻个个儿让人"
+        },{
+            "img" : "../img/brand1/brand7.jpg",
+            "txt" : "阿沙文的鹅鹅鹅饿"
+        },{
+            "img" : "../img/brand1/brand8.jpg",
+            "txt" : "安稳的发生未答复安"
+        }
+    ],
+    "data2" : [
+        {
+            "a" : "啊啊啊"
+        },{
+            "a" : "去去去"
+        },{
+            "a" : "喂喂喂"
+        },{
+            "a" : "鹅鹅鹅"
+        },{
+            "a" : "日日日"
+        },{
+            "a" : "天天天"
+        },{
+            "a" : "得得得"
+        },{
+            "a" : "对对对"
+        },{
+            "a" : "是是是"
+        },{
+            "a" : "哦哦哦"
+        },{
+            "a" : "啪啪啪"
+        },{
+            "a" : "啊啊啊"
+        }
+    ]
+}
